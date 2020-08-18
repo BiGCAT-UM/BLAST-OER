@@ -5,7 +5,7 @@ Open Educational Resource for first year biomedical sciences students into the w
 ## Table of Contents
 
 1. [BLAST on two short DNA sequences](example.md)
-2. BLAST on protein sequences
+2. [BLAST on protein sequences](protein.md)
 
 ## Educational Video's about BLAST
 
