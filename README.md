@@ -7,6 +7,7 @@ Open Educational Resource for first year biomedical sciences students into the w
 1. [BLAST on two short DNA sequences](example.md)
 2. [BLAST on protein sequences](protein.md)
 3. [Which BLAST to use](which.md)
+4. [The FASTA format](fasta.md)
 
 ## Educational Video's about BLAST
 
