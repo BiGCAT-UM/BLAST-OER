@@ -9,5 +9,5 @@ The NCBI BLAST website has a few variants that people can use:
 
 Or, how NCBI visualizes it themselves:
 
-![Screenshot_20200929_203927.png]()
+![](blast_types.png)
 

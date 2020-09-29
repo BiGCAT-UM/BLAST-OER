@@ -67,7 +67,7 @@ operations (note: these are matrix multiplications, which do not have to be cove
 Generally, we can determine homology for proteins with a minimum of ~30% identity over a
 substantial part of the sequence. The following figure shows the PAM250 scoring matrix:
 
-![pam.png]()
+![](pam.png)
 
 ### BLOSUM matrices
 
@@ -80,7 +80,7 @@ and for very related proteins one can opt for dedicated matrices (such as BLOSUM
 Be aware that, where for PAM a higher number indicates suitability for more divergent
 proteins, for BLOSUM a lower number is suited for more divergent proteins.
 
-![blosum.png]()
+![](blosum.png)
 
 ## Literature
 
