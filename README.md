@@ -10,7 +10,7 @@ Open Educational Resource for first year biomedical sciences students into the w
 4. [Which BLAST to use](which.md)
 5. [The FASTA format](fasta.md)
 
-## Educational video's about BLAST
+## Educational material
 
 Video's by National Center for Biotechnology Information (NCBI):
 
@@ -20,6 +20,8 @@ Video's by National Center for Biotechnology Information (NCBI):
 * [BLAST Results: Expect Values, Part 2](https://www.youtube.com/watch?v=dzRq-5BrGD4) (3:39)
 * [NCBI Minute: Five Teaching Examples Using BLAST](https://www.youtube.com/watch?v=JKD5laNtwSc) (29:37) ([booklet](http://ftp.ncbi.nlm.nih.gov/pub/factsheets/Booklet_Teaching_BLAST.pdf)) 
 * [NCBI Minute: Using BLAST Well](https://www.youtube.com/watch?v=2FW1dk5YQ3I) (45:53)
+
+Additional resources can be found in the [ELIXIR Training Portal TeSS](https://tess.elixir-europe.org/search?q=blast).
 
 ## Literature
 
