@@ -55,3 +55,18 @@ background of the gap penalty. Elongation of a gap (making it longer) typically 
 penalty than starting a new gap. If the penalty is -1 point, then the last alignment has three
 points.​ ​However,​ ​if​ ​the​ ​penalty​ ​is​ ​-2​ ​points,​ ​then​ ​the​ ​alignment​ ​has​ ​4-2=2​ ​points.
 
+Here is an example with two possible alignments, without and with gap:
+
+```
+ACTAGATCGTACGACTGACGT
+|||| |||  || |  |
+ACTACATCGGACTGACGT
+```
+
+```
+ACTAGATCGTACGACTGACGT
+|||| ||||   |||||||||
+ACTACATCG---GACTGACGT
+```
+
+Which one has the higher alignment score? Also, what does the gap mean at protein level?
