@@ -17,3 +17,10 @@ MLGDSAILGT
 ## Substition matrices: PAM and BLOSUM
 
 
+
+
+## Literature
+
+* Henikoff S, Henikoff JG. Amino acid substitution matrices from protein blocks.
+  Proceedings of the National Academy of Sciences. 1992 Nov 15;89(22):10915–9.
+  https://doi.org/10.1073/pnas.89.22.10915 

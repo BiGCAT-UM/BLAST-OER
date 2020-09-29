@@ -20,6 +20,15 @@ Video's by National Center for Biotechnology Information (NCBI):
 * [NCBI Minute: Five Teaching Examples Using BLAST](https://www.youtube.com/watch?v=JKD5laNtwSc) (29:37) ([booklet](http://ftp.ncbi.nlm.nih.gov/pub/factsheets/Booklet_Teaching_BLAST.pdf)) 
 * [NCBI Minute: Using BLAST Well](https://www.youtube.com/watch?v=2FW1dk5YQ3I) (45:53)
 
+## Literature
+
+* Mount DW. Using the Basic Local Alignment Search Tool (BLAST). Cold Spring Harb Protoc. 2007
+  Jul;2007(7):pdb.top17. https://doi.org/10.1101/PDB.TOP17 
+* Henikoff S, Henikoff JG. Amino acid substitution matrices from protein blocks. Proceedings of
+  the National Academy of Sciences. 1992 Nov 15;89(22):10915–9.  https://doi.org/10.1073/pnas.89.22.10915 
+* Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search tool.\
+  Journal of Molecular Biology. 1990 Oct;215(3):403–410. https://doi.org/10.1016/S0022-2836(05)80360-2 
+
 ## License
 
 CC-BY 4.0 Internaional
