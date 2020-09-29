@@ -24,11 +24,11 @@ Video's by National Center for Biotechnology Information (NCBI):
 ## Literature
 
 * Mount DW. Using the Basic Local Alignment Search Tool (BLAST). Cold Spring Harb Protoc. 2007
-  Jul;2007(7):pdb.top17. https://doi.org/10.1101/PDB.TOP17 
+  Jul;2007(7):pdb.top17. doi:[10.1101/PDB.TOP17](https://doi.org/10.1101/PDB.TOP17)
 * Henikoff S, Henikoff JG. Amino acid substitution matrices from protein blocks. Proceedings of
-  the National Academy of Sciences. 1992 Nov 15;89(22):10915–9.  https://doi.org/10.1073/pnas.89.22.10915 
-* Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search tool.\
-  Journal of Molecular Biology. 1990 Oct;215(3):403–410. https://doi.org/10.1016/S0022-2836(05)80360-2 
+  the National Academy of Sciences. 1992 Nov 15;89(22):10915–9.  doi:[10.1073/pnas.89.22.10915](https://doi.org/10.1073/pnas.89.22.10915)
+* Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search tool.
+  Journal of Molecular Biology. 1990 Oct;215(3):403–410. doi:[10.1016/S0022-2836(05)80360-2](https://doi.org/10.1016/S0022-2836(05)80360-2)
 
 ## License
 
