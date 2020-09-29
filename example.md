@@ -70,3 +70,19 @@ ACTACATCG---GACTGACGT
 ```
 
 Which one has the higher alignment score? Also, what does the gap mean at protein level?
+
+## Scoring Matrices
+
+When comparing two sequences, there are a very large number of possibilities to align the two,
+especially taking into account the possibility for inclusion of insertions and deletions.
+In order to decide which of those possible alignments is the best one, we need a scoring scheme.
+Such a scoring scheme should give an individual score for each paired residue (nucleotide, or
+gap) which then can be summed over the entire alignment to get a total score that reflects
+the degree of similarity. The alignment with the highest total score is then considered the
+best. A very simple option would be to count the percentage identity (number of matching
+residues divided by the total alignment length), but this fails to use much of the information
+we have on the biological properties of sequences.
+
+Scoring schemes for nucleotides sequences are generally quite simple (a positive score for a match,
+a negative score (penalty) for a mismatch, and penalties for any included gaps). We examples
+of this earlier on this page.
