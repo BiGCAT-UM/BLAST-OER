@@ -1,5 +1,8 @@
 # Which BLAST to use
 
+Blast can also be used to align two sequences, but is most commonly used to compare a
+sequence against all entries in a database of sequences.
+
 The NCBI BLAST website has a few variants that people can use:
 
 * Nucleotide BLAST (blastn): search for similar nucleotide sequences in a nucleotide sequence database

@@ -1,4 +1,4 @@
-# BLAST​ ​scoring example: nucleotides
+# Alignment scoring example (for nucleotides)
 
 In Case 10, the various sequences were nicely aligned: the first nucleotides of both
 sequences were at the same alignment position. However, one aspect of making a new

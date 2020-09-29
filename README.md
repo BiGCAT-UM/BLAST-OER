@@ -5,12 +5,12 @@ Open Educational Resource for first year biomedical sciences students into the w
 ## Table of Contents
 
 1. [Comparing sequences](comparing.md)
-2. [BLAST on two short DNA sequences](example.md)
-3. [BLAST on protein sequences](protein.md)
+2. [Aligning two short DNA sequences](example.md)
+3. [Aligning protein sequences](protein.md)
 4. [Which BLAST to use](which.md)
 5. [The FASTA format](fasta.md)
 
-## Educational Video's about BLAST
+## Educational video's about BLAST
 
 Video's by National Center for Biotechnology Information (NCBI):
 

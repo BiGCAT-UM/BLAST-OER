@@ -1,4 +1,4 @@
-# BLAST​ ​scoring example: proteins
+# Alignment ​scoring example (for proteins)
 
 Comparing proteins is different from comparing nucleotide sequences. Basically, nucleotides
 are the same or they are not. However, for amino acids this is more different. First of all,
