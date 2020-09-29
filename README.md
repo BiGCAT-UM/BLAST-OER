@@ -32,4 +32,4 @@ Video's by National Center for Biotechnology Information (NCBI):
 
 ## License
 
-CC-BY 4.0 Internaional
+CC-BY 4.0 Internaional [Authors](AUTHORS.txt)
