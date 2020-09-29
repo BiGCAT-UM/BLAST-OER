@@ -1,3 +1,5 @@
+[prev](comparing.md) | [toc](./README.md) | [next](protein.md)
+
 # Alignment scoring example (for nucleotides)
 
 In Case 10, the various sequences were nicely aligned: the first nucleotides of both
@@ -86,3 +88,6 @@ we have on the biological properties of sequences.
 Scoring schemes for nucleotides sequences are generally quite simple (a positive score for a match,
 a negative score (penalty) for a mismatch, and penalties for any included gaps). We examples
 of this earlier on this page.
+
+[prev](comparing.md) | [toc](./README.md) | [next](protein.md)
+

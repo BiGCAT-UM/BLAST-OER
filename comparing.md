@@ -1,3 +1,5 @@
+[toc](./README.md) | [next](example.md)
+
 # Comparing Sequences
 
 Where we are trying find a matching sequence in a database for a sequence measured
@@ -53,4 +55,6 @@ Alignment of nucleotide sequences is still useful, for example to:
 * confirm the identity of a cDNA
 * study DNA polymorphisms
 * study genomes (compare genomes, create genome annotations)
+
+[toc](./README.md) | [next](example.md)
 
