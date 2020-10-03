@@ -1,3 +1,5 @@
+[prev](which .md) | [toc](./README.md)
+
 # The FASTA format
 
 The FASTA format is a text-based format for nucleotide sequences or protein sequences.
@@ -20,3 +22,5 @@ a comment line indicates the start of the next sequence.
 
 * [NCBI BLAST Help page](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp)
 * [Wikipedia: FASTA format](https://en.wikipedia.org/wiki/FASTA_format)
+
+[prev](which .md) | [toc](./README.md)

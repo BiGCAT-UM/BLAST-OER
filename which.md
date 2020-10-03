@@ -1,3 +1,5 @@
+[prev](protein.md) | [toc](./README.md) | [next](fasta.md)
+
 # Which BLAST to use
 
 Blast can also be used to align two sequences, but is most commonly used to compare a
@@ -14,3 +16,4 @@ Or, how NCBI visualizes it themselves:
 
 ![](blast_types.png)
 
+[prev](protein.md) | [toc](./README.md) | [next](fasta.md)
