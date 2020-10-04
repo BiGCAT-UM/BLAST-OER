@@ -32,6 +32,10 @@ Additional resources can be found in the [ELIXIR Training Portal TeSS](https://t
 * Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search tool.
   Journal of Molecular Biology. 1990 Oct;215(3):403–410. doi:[10.1016/S0022-2836(05)80360-2](https://doi.org/10.1016/S0022-2836(05)80360-2)
 
+## Citizen Science Games
+
+* [Unmask](https://unmask.nl/): RNA sequence alignment to support (Dutch) cancer research
+
 ## License
 
 CC-BY 4.0 Internaional [Authors](AUTHORS.txt)
