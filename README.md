@@ -12,9 +12,10 @@ Open Educational Resource for first year biomedical sciences students into the w
 3. [Aligning protein sequences](protein.md) <br />
 &nbsp;&nbsp;3.1 [Substition matrices: PAM and BLOSUM](protein.md#substition-matrices-pam-and-blosum) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;3.1.1 [PAM matrices](protein.md#pam-matrices) <br />
-&nbsp;&nbsp;3.1.2 [BLOSUM matrices](protein.md#blosum-matrices)
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.2 [BLOSUM matrices](protein.md#blosum-matrices)
 4. [Which BLAST to use](which.md) <br />
-5. [The FASTA format](fasta.md) <br />
+5. [Interpreting BLAST output](ncbi.md) <br />
+6. [The FASTA format](fasta.md) <br />
 
 ## Educational material
 

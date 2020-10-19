@@ -1,4 +1,4 @@
-[prev](protein.md) | [toc](./README.md) | [next](fasta.md)
+[prev](protein.md) | [toc](./README.md) | [next](ncbi.md)
 
 # Which BLAST to use
 
@@ -16,4 +16,4 @@ Or, how NCBI visualizes it themselves:
 
 ![](blast_types.png)
 
-[prev](protein.md) | [toc](./README.md) | [next](fasta.md)
+[prev](protein.md) | [toc](./README.md) | [next](ncbi.md)
