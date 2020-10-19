@@ -35,5 +35,20 @@ results (and of the biology) to determine the relevance of each hit. Also, hits 
 be against known-protein domains that occur in many proteins, which are not necessarily
 related or homologous to the input protein.
 
+## Max and Total scores
+
+Let's take the following example:
+
+```
+tggcttagta gaagttgaaa aaggcgtttt gcctcaactt gaacagccct atgtgttcat
+|||||||||| ||||||||||            |||||||||| |||||||||| ||||||||||
+tggcttagta gaagttgaaa ggccccaaaa gcctcaactt gaacagccct atgtgttcat
+```
+
+Here, the max score is 15, while the total score is 25.
+
+Only if the alignment consists of one continued alignment without gaps,
+then the max and total score is identical.
+
 [prev](which.md) | [toc](./README.md) | [next](fasta.md)
 
