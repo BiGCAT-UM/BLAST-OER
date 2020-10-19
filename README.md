@@ -5,8 +5,14 @@ Open Educational Resource for first year biomedical sciences students into the w
 ## Table of Contents
 
 1. [Comparing sequences](comparing.md)
+    1.1 [Comparing protein or nucleotide sequences?](comparing.md#comparing-protein-or-nucleotide-sequences)
 2. [Aligning two short DNA sequences](example.md)
+    2.1 [Gap](example.md#gaps)
+    2.2 [Scoring Matrices](example.md#scoring-matrices)
 3. [Aligning protein sequences](protein.md)
+    3.1 [Substition matrices: PAM and BLOSUM](protein.md#substition-matrices-pam-and-blosum)
+        3.1.1 [PAM matrices](protein.md#pam-matrices)
+        3.1.2 [BLOSUM matrices](protein.md#blosum-matrices)
 4. [Which BLAST to use](which.md)
 5. [The FASTA format](fasta.md)
 
