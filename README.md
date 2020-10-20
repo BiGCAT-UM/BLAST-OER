@@ -15,6 +15,7 @@ Open Educational Resource for first year biomedical sciences students into the w
 &nbsp;&nbsp;&nbsp;&nbsp;3.1.2 [BLOSUM matrices](protein.md#blosum-matrices)
 4. [Which BLAST to use](which.md) <br />
 5. [Interpreting BLAST output](ncbi.md) <br />
+&nbsp;&nbsp;5.1 [Max and Total scores](ncbi.md#max-and-total-scores)
 6. [The FASTA format](fasta.md) <br />
 
 ## Educational material
