@@ -2,9 +2,9 @@
 
 # Interpreting BLAST output
 
-The [NCBI BLAST](which.md) output first of all reports a ‘search summary’ (click to open),
-which gives a summary of the parameter settings of the Blast run. Then, for protein BLAST,
-an overview of recognised known protein domains is given, if any. Then the hits are displayed
+The [NCBI BLAST](which.md) output first reports a ‘search summary’ (click to open),
+which gives a summary of the parameter settings of the BLAST run. Then, for protein BLAST,
+an overview of recognised known protein domains is given, if any. Then, the hits are displayed
 in a graphical overview, where each hit has a colour code depending on its score. To save
 space, hits from different parts of the input sequence may be placed next to each other.
 These are not connected with a line. When connected with a thin line, hits represent
@@ -18,8 +18,8 @@ Accession code. The columns have the following interpretation:
 * ***Total score*** indicates the summed score of all sub hits to that database entry. Note that Max and Total score are often the same, when there is only one hit to that database entry;
 * ***Query coverage*** indicates which percentage of the input sequence is aligned to that database hit;
 * ***Identity*** gives the percentage of residues (either nucleotides or amino acids) that are identical in the alignment between the input sequence and the database hit;
-* ***Accession code*** gives the database identifier of the hit.
-* ***E-value***, explained next (see also the [video's by NCBI](README.md#educational-material)).
+* ***Accession code*** gives the database identifier of the hit;
+* ***E-value***, explained below (see also the [video's by NCBI](README.md#educational-material)).
 
 The expect value E of a score S is the number of alignments with scores greater than or
 equal to S that are expected to occur by chance in the specific database search. This is
