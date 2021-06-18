@@ -4,7 +4,7 @@
 
 The FASTA format is a text-based format for nucleotide sequences or protein sequences.
 It represents the nucleotides or amino acids of the sequences using single-letter codes.
-A simple example looks like:
+A simple example looks like this:
 
 ```fasta
 >P01013 GENE X PROTEIN (FIRST PART)
@@ -12,8 +12,7 @@ QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAE
 KMKILELPFASGDLSMLVLLPD
 ```
 
-The format starts with a comment line, commonly started with a `>`. The following lines
-contain the sequence.
+The format starts with a comment line, commonly started with a `>` and giving information about the protein (here a Uniprot ID) and other experimental relevant information. The following lines contain the actual sequence.
 
 The pattern can be repeated to create a multiple sequence FASTA file, where each time
 a comment line indicates the start of the next sequence.
