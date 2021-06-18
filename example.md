@@ -86,7 +86,7 @@ residues divided by the total alignment length), but this fails to use much of t
 we have on the biological properties of sequences.
 
 Scoring schemes for nucleotides sequences are generally quite simple (a positive score for a match,
-a negative score (penalty) for a mismatch, and penalties for any included gaps). We show examples
+a negative score (penalty) for a mismatch, and penalties for any included gaps). We showed examples
 of this earlier on this page.
 
 [prev](comparing.md) | [toc](./README.md) | [next](protein.md)
