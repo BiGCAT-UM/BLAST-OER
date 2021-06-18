@@ -1,11 +1,13 @@
 [prev](intro.md) | [toc](./README.md) | [next](example.md)
 
-# Comparing Sequences
+# Comparing Sequences using BLAST
 
-Where we are trying find a matching sequence in a database for a sequence measured
-in a sample, or are comparing two sequences to determine the similarity and possible
-evolutionary relationship, in both cases we need to determine whether two sequences
-are similar or not. The first step of this comparison is to find the best alignment.
+There are several applications in biomedical science that need to compare DNA, RNA or protein sequences:
+* trying find a matching sequence in a database for a sequence you found in an experiment or
+* comparing two sequences to determine the similarity and possible evolutionary relationship.
+This comparison is done by the basic local alignment search tool (BLAST). 
+
+The first step of BLAST in any of these comparisons is to find the best alignment.
 
 This sequence alignment is done by (pairwise) sequence alignment, defined as the process of
 arranging two sequences to achieve maximal levels of identity and conservation.
@@ -13,8 +15,8 @@ arranging two sequences to achieve maximal levels of identity and conservation.
 * Identity: A residue is exactly the same (either nucleotide or amino acid)
 * Conservation: An amino acid is replaced by another amino acid that preserves the
   physicochemical properties of the original residue (for nucleotides, conservation
-  has no meaning, as two residues are only considered equal or not)
-* Similarity: The extent to which sequences are related, based on identity and conservation.
+  has no meaning, as due to the triplett code translation, two DNA/RNA residues can only be identical or not for the meaning of the code)
+* Similarity: The resulting extent to which sequences are related, based on identity and conservation.
 
 For conservation, the group to which an amino acid belongs is important (basic, acidic,
 uncharged polar, or nonpolar side chain), as well as the size of the amino acid’s side chain.
@@ -22,7 +24,7 @@ Also, some amino acids have very unique properties, making them essential in cer
 in a protein (e.g. cysteine, to form sulphur bridges).
 
 Homology is defined as similarity attributed to descent from a common ancestor. Sequences
-are either homologous or not (they cannot be somewhat homologous). Paralogues are homologues
+are either homologous or not (they cannot be somewhat homologous due to similar protein domain function). Paralogues are homologues
 between species (e.g. human and mouse haemoglobin alpha chain), orthologues are homologues
 within a species (e.g. human haemoglobin alpha and beta chain).
 
