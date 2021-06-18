@@ -4,8 +4,8 @@
 
 Comparing proteins is different from comparing nucleotide sequences. Basically, nucleotides
 are the same or they are not. However, for amino acids this is more different. First of all,
-some amino acids are encoded by more than one codon. Second, not every amino acid change
-changes the protein structure and biological function a lot.
+some amino acids are encoded by more than one codon. Second, not every amino acid causes a
+change in the protein structure and biological function, and even if, there are varying degrees thereof.
 
 For example, the following two protein sequences can be aligned like this without
 introducing a gap:
@@ -52,18 +52,19 @@ Extinct form       Gly     Ala
                     |       |
 Current form       Arg     Ala
 ```
-When only looking at the current forms, we may take this for a direct Ala to Arg mutation
-in the left branch (if we have a full phylogenetic tree, we may deduce more information
-about the ancestry of the protein).
+If only looking at the current forms, we may take this for a direct Ala to Arg mutation
+in the left branch, but if we have a full phylogenetic tree, we may deduce more information
+about the ancestry of the protein.
 
 ### PAM matrices
 
 The PAM matrices come in different versions: PAM1 is suited to compare very similar proteins
 with no more than one mutation per 100 residues; PAM80 is suited to compare proteins with
 up to 80 changes per 100 residues; PAM250 is suited to compare proteins with up to 250
-changes per 100 residues (this is possible since each residue may have changed more than once
-in distant proteins, as illustrated above; for 80 changes per 100 residues we expect 50
-differences per 100 residues, for 250 changes we expect 80 differences per 100 residues).
+changes per 100 residues. This is possible since each residue may have changed more than once
+in distant proteins, as illustrated above. 
+For 80 changes per 100 residues we would therefore expect something about 50
+differences per 100 residues, for 250 changes we expect 80 differences per 100 residues.
 The higher number PAM matrices are computed from the lower number ones using mathematical
 operations (note: these are matrix multiplications, which do not have to be covered).
 Generally, we can determine homology for proteins with a minimum of ~30% identity over a
@@ -74,13 +75,13 @@ substantial part of the sequence. The following figure shows the PAM250 scoring 
 ### BLOSUM matrices
 
 Another known collection of matrices is the BLOSUM collection, based on observed local
-alignments (where only parts of the sequences may align). BLOSUM62, shown in the below figure,
-is often used as a standard matrix, and is designed for proteins that are less than 62%
-similar. It will work for both moderately distant proteins as well as for more closely
+alignments (where only parts of the sequences may align). BLOSUM62, shown in the figure below,
+is often used as a standard matrix. It is designed for proteins that are less than 62%
+similar. It will work for both, moderately distant proteins as well as for more closely
 related proteins. For more distant proteins, there are other versions (such as BLOSUM45)
 and for very related proteins one can opt for dedicated matrices (such as BLOSUM80).
-Be aware that, where for PAM a higher number indicates suitability for more divergent
-proteins, for BLOSUM a lower number is suited for more divergent proteins.
+Be aware that, whereas for PAM a higher number indicates suitability for more divergent
+proteins, for BLOSUM a lower number is suited for more divergent proteins!
 
 ![](blosum.png)
 
