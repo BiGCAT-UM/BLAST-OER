@@ -75,7 +75,7 @@ Which one has the higher alignment score? Also, what does the gap mean at protei
 
 ## Scoring Matrices
 
-When comparing two sequences, there are a very large number of possibilities to align the two,
+When comparing two sequences, there is a very large number of possibilities to align the two,
 especially taking into account the possibility for inclusion of insertions and deletions.
 In order to decide which of those possible alignments is the best one, we need a scoring scheme.
 Such a scoring scheme should give an individual score for each paired residue (nucleotide, or
@@ -86,7 +86,7 @@ residues divided by the total alignment length), but this fails to use much of t
 we have on the biological properties of sequences.
 
 Scoring schemes for nucleotides sequences are generally quite simple (a positive score for a match,
-a negative score (penalty) for a mismatch, and penalties for any included gaps). We examples
+a negative score (penalty) for a mismatch, and penalties for any included gaps). We show examples
 of this earlier on this page.
 
 [prev](comparing.md) | [toc](./README.md) | [next](protein.md)
