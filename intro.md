@@ -2,11 +2,32 @@
 
 # Introduction
 
+The life sciences study how biology orchestrates molecules to create living organisms.
+An important central theme here is how the biomolecules impact life. The structure and
+function of the major biomolecule classes (nucleic acids, proteins, fats, and sugars)
+play a central role: the are the building blocks.
+
+We found that how these biomolecules result in life is very structured. We found the 
+evolutionary relation between DNA sequences and the similarity in proteins. We
+discovered that how a protein folds up into a 3D structure is highly conserved. Not 
+only does the same protein sequence strongly drive (there are exceptions) how the
+protein folds up, but that proteins over many different species show similar protein
+folds for similar biological roles. The latter is the foundation of, for example,
+homology modelling which is used in drug discovery to study the function of proteins.
+
+Therefore, being able to compare sequences is an extremely important tool in studying
+biological systems.
+
 ## From DNA via RNA to proteins
 
-## Protein Structures
+## Impactful changes in Protein Structures
 
-## Post-translational modifications
+### Active site
+
+### Post-translational modifications
+
+
+
 
 [toc](./README.md) | [next](comparing.md)
 
