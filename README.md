@@ -4,19 +4,20 @@ Open Educational Resource for first year biomedical sciences students into the w
 
 ## Table of Contents
 
-1. [Comparing sequences](comparing.md) <br />
-&nbsp;&nbsp;1.1 [Comparing protein or nucleotide sequences?](comparing.md#comparing-protein-or-nucleotide-sequences)
-2. [Aligning two short DNA sequences](example.md) <br />
-&nbsp;&nbsp;2.1 [Gap](example.md#gaps) <br />
-&nbsp;&nbsp;2.2 [Scoring Matrices](example.md#scoring-matrices)
-3. [Aligning protein sequences](protein.md) <br />
+a. [Introduction](intro.md) <br />
+2. [Comparing sequences](comparing.md) <br />
+&nbsp;&nbsp;2.1 [Comparing protein or nucleotide sequences?](comparing.md#comparing-protein-or-nucleotide-sequences)
+3. [Aligning two short DNA sequences](example.md) <br />
+&nbsp;&nbsp;3.1 [Gap](example.md#gaps) <br />
+&nbsp;&nbsp;3.2 [Scoring Matrices](example.md#scoring-matrices)
+4. [Aligning protein sequences](protein.md) <br />
 &nbsp;&nbsp;3.1 [Substition matrices: PAM and BLOSUM](protein.md#substition-matrices-pam-and-blosum) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;3.1.1 [PAM matrices](protein.md#pam-matrices) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;3.1.2 [BLOSUM matrices](protein.md#blosum-matrices)
-4. [Which BLAST to use](which.md) <br />
-5. [Interpreting BLAST output](ncbi.md) <br />
-&nbsp;&nbsp;5.1 [Max and Total scores](ncbi.md#max-and-total-scores)
-6. [The FASTA format](fasta.md) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;4.1.1 [PAM matrices](protein.md#pam-matrices) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;4.1.2 [BLOSUM matrices](protein.md#blosum-matrices)
+5. [Which BLAST to use](which.md) <br />
+6. [Interpreting BLAST output](ncbi.md) <br />
+&nbsp;&nbsp;6.1 [Max and Total scores](ncbi.md#max-and-total-scores)
+7. [The FASTA format](fasta.md) <br />
 
 ## Educational material
 
