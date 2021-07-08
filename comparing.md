@@ -1,4 +1,4 @@
-[toc](./README.md) | [next](example.md)
+[prev](intro.md) | [toc](./README.md) | [next](example.md)
 
 # Comparing Sequences
 
@@ -56,5 +56,5 @@ Alignment of nucleotide sequences is still useful, for example to:
 * study DNA polymorphisms
 * study genomes (compare genomes, create genome annotations)
 
-[toc](./README.md) | [next](example.md)
+[prev](intro.md) | [toc](./README.md) | [next](example.md)
 
