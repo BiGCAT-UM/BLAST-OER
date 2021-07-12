@@ -16,9 +16,15 @@ folds for similar biological roles. The latter is the foundation of, for example
 homology modelling which is used in drug discovery to study the function of proteins.
 
 Therefore, being able to compare sequences is an extremely important tool in studying
-biological systems.
+biological systems. This material will look into why and how nucleotide changes in
+DNA and RNA and amino acid changes in protein structures. Central in this topic is
+that not every change has the same impact, and you will learn how biologists use that
+insight when studying evolutionary aspects of DNA and protein sequences.
 
 ## From DNA via RNA to proteins
+
+### Protein folds
+
 
 ## Impactful changes in Protein Structures
 
