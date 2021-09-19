@@ -1,6 +1,6 @@
 [prev](intro.md) | [toc](./README.md) | [next](example.md)
 
-# Comparing Sequences using BLAST
+# Comparing Sequences
 
 There are several applications in biomedical science that need to compare DNA, RNA or protein sequences:
 * trying find a matching sequence in a database for a sequence you found in an experiment or
@@ -15,7 +15,7 @@ arranging two sequences to achieve maximal levels of identity and conservation.
 * Identity: A residue is exactly the same (either nucleotide or amino acid)
 * Conservation: An amino acid is replaced by another amino acid that preserves the
   physicochemical properties of the original residue (for nucleotides, conservation
-  has no meaning, as due to the triplett code translation, two DNA/RNA residues can only be identical or not for the meaning of the code)
+  has no meaning, as due to the triplet code translation, two DNA/RNA residues can only be identical or not for the meaning of the code)
 * Similarity: The resulting extent to which sequences are related, based on identity and conservation.
 
 For conservation, the group to which an amino acid belongs is important (basic, acidic,
