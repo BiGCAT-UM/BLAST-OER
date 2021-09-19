@@ -75,9 +75,25 @@ Like with species, the similarity of RNA sequences can also be used to classify 
 
 ![Phylogenetic tree of the SARS-CoV-like virusses of which the RNA sequences are known](sarscov2-like-virusses.png)
 
+Using the same approach of stuyding the RNA sequences, it is possible to track how SARS-CoV-2 variants
+spread over the world ([image of NextStrain]()):
+
+![Phylogenetic tree of SARS-CoV-2 variants](sarscov2-variants.png)
+
+1. Why can RNA sequences be used for contact research to see how the SARS-CoV-2 virus is spreading? <!-- button onclick="toggleAnswer('q1')">Answer</button><span id="q1" style="visibility: hidden"> http://purl.enanomapper.org/onto/ENM_9000074</span -->
+
 ### Comparing protein sequences
 
+The interactions of proteins with other proteins, with membranes, with small compounds (ligands, substrates) define
+the rol in the biology of an organism. The backbone of a protein sequence is always identical
+and only the amino acid side changes are different. The which [side chain](https://en.wikipedia.org/wiki/Amino_acid)
+is found where in the polypeptide is defined by the codons, and therefore defined by evolution. Sometimes changing
+a single sidechain can be major effects, such as in sickle-cell an. Here, a single glutamate is replaced by a valine
+(see [this Proteopedia page](https://proteopedia.org/wiki/index.php/Hemoglobin)):
 
+![Screenshot of β hemoglobin monomer with the glutamate highlighted](glutamate.png)
+
+### Protein fold prediction
 
 
 
