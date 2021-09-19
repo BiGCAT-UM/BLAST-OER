@@ -23,14 +23,60 @@ insight when studying evolutionary aspects of DNA and protein sequences.
 
 ## From DNA via RNA to proteins
 
+### Codons
+
+The double helix of the DNA is transcribed into RNA which translated into protein sequences.
+Three nucleotides in the DNA and RNA encode for a single amino acid in the protein sequence.
+We know which [codon](https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables#Tables) results
+in which amino acid. Not every nucleotide change means a change of the protein sequence.
+
 ### Protein folds
 
+Proteins are biopolymers of amino acids, where individual amino acids are linearly linked via
+peptide bonds. It is therefore also known as a polypeptide. The linear sequence of amino acids
+folds up into secondary motives (alpha helices, beta strands,
+etc) and a tertiary fold. This [protein fold](https://en.wikipedia.org/wiki/Protein_folding)
+is deterministic: if a specific protein primary sequence does not always fold up into the same
+fold, then the fold's biologically function would not be preserved. But it is. It is so
+preserved, that similar primary protein sequence also result in the same fold. It can have small
+changes, but the fold is quite well preserved. This results in [protein families](https://en.wikipedia.org/wiki/Protein_superfamily).
 
-## Impactful changes in Protein Structures
+Therefore, there is a deterministic relation between the DNA sequence, via the RNA sequence
+and the protein sequence, with the biological function. 
 
-### Active site
+### Similar sequences
 
-### Post-translational modifications
+Because of this relation between DNA, RNA, and protein sequence and biological function,
+comparing these sequences is of high interest too:
+
+* if two sequences are sufficiently similar, they have the same biological role
+* if two sequences of the genomes of two species are highly similar, these species are evolutionatily related
+* some small changes in the DNA sequence cause changes in the protein sequence
+* changes in the protein sequence can have effect on the biology
+
+## Examples of sequence comparison
+
+### Comparing DNA sequences
+
+[Molecular phylogenetics](https://www.ncbi.nlm.nih.gov/books/NBK21122/) uses differences and similarities
+to classify organisms into species. Combined with the idea of evolution, we have the foundation of the
+tree of life. Differences and simlarities between organisms can also be defined by comparing their DNA.
+Changes in DNA sequences, particularly, the number of changing nucleotides can be used as measure to
+reflect how far two species diverged. This assumes, of course, that the number of nucleotides change
+are a certain stable speed.
+
+1. What does it mean when people say two species are 99% identical? <!-- button onclick="toggleAnswer('q1')">Answer</button><span id="q1" style="visibility: hidden"> http://purl.enanomapper.org/onto/ENM_9000074</span -->
+
+### Comparing RNA sequences
+
+Possibly the most studies RNA sequence at this moment, is the sequence of the SARS-CoV-2 RNA.
+Like with species, the similarity of RNA sequences can also be used to classify SARS-CoV-like virusses
+([image is a screenshot taken of NextStrain](https://nextstrain.org/groups/blab/sars-like-cov)):
+
+![Phylogenetic tree of the SARS-CoV-like virusses of which the RNA sequences are known](sarscov2-like-virusses.png)
+
+### Comparing protein sequences
+
 
 
 
