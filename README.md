@@ -4,7 +4,7 @@ Open Educational Resource for first year biomedical sciences students into the w
 
 ## Table of Contents
 
-a. [Introduction](intro.md) <br />
+1. [Introduction](intro.md) <br />
 2. [Comparing sequences](comparing.md) <br />
 &nbsp;&nbsp;2.1 [Comparing protein or nucleotide sequences?](comparing.md#comparing-protein-or-nucleotide-sequences)
 3. [Aligning two short DNA sequences](example.md) <br />
