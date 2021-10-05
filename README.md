@@ -47,4 +47,4 @@ Additional resources can be found in the [ELIXIR Training Portal TeSS](https://t
 
 ## License
 
-CC-BY 4.0 Internaional [Authors](AUTHORS.txt)
+CC-BY 4.0 International [Authors](AUTHORS.txt)
