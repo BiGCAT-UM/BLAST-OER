@@ -50,7 +50,7 @@ Because of this relation between DNA, RNA, and protein sequence and biological f
 comparing these sequences is of high interest too:
 
 * if two sequences are sufficiently similar, they have the same biological role
-* if two sequences of the genomes of two species are highly similar, these species are evolutionatily related
+* if two sequences of the genomes of two species are highly similar, these species are evolutionarily related
 * some small changes in the DNA sequence cause changes in the protein sequence
 * changes in the protein sequence can have effect on the biology
 
@@ -88,7 +88,7 @@ The interactions of proteins with other proteins, with membranes, with small com
 the rol in the biology of an organism. The backbone of a protein sequence is always identical
 and only the amino acid side changes are different. The which [side chain](https://en.wikipedia.org/wiki/Amino_acid)
 is found where in the polypeptide is defined by the codons, and therefore defined by evolution. Sometimes changing
-a single sidechain can be major effects, such as in sickle-cell an. Here, a single glutamate is replaced by a valine
+a single sidechain can be major effects, such as in sickle-cell anemia. Here, a single glutamate is replaced by a valine
 (see [this Proteopedia page](https://proteopedia.org/wiki/index.php/Hemoglobin)):
 
 ![Screenshot of β hemoglobin monomer with the glutamate highlighted](glutamate.png)
