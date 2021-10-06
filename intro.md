@@ -65,6 +65,8 @@ Changes in DNA sequences, particularly, the number of changing nucleotides can b
 reflect how far two species diverged. This assumes, of course, that the number of nucleotides change
 are a certain stable speed.
 
+#### Questions
+
 1. What does it mean when people say two species are 99% identical? <!-- button onclick="toggleAnswer('q1')">Answer</button><span id="q1" style="visibility: hidden"> http://purl.enanomapper.org/onto/ENM_9000074</span -->
 
 ### Comparing RNA sequences
@@ -80,6 +82,8 @@ spread over the world ([image of NextStrain]()):
 
 ![Phylogenetic tree of SARS-CoV-2 variants](sarscov2-variants.png)
 
+#### Questions
+
 1. Why can RNA sequences be used for contact research to see how the SARS-CoV-2 virus is spreading? <!-- button onclick="toggleAnswer('q1')">Answer</button><span id="q1" style="visibility: hidden"> http://purl.enanomapper.org/onto/ENM_9000074</span -->
 
 ### Comparing protein sequences
@@ -92,9 +96,6 @@ a single sidechain can be major effects, such as in sickle-cell anemia. Here, a 
 (see [this Proteopedia page](https://proteopedia.org/wiki/index.php/Hemoglobin)):
 
 ![Screenshot of β hemoglobin monomer with the glutamate highlighted](glutamate.png)
-
-### Protein fold prediction
-
 
 
 [toc](./README.md) | [next](comparing.md)
