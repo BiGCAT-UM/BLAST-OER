@@ -5,13 +5,21 @@ Open Educational Resource for first year biomedical sciences students into the w
 ## Table of Contents
 
 1. [Introduction](intro.md) <br />
+&nbsp;&nbsp;1.1 [From DNA via RNA to proteins](intro.md#from-dna-via-rna-to-proteins)
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.1 [Codons](intro.md#codons)
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.2 [Protein folds](intro.md#protein-folds)
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.3 [Similar sequences](intro.md#similar-sequences)
+&nbsp;&nbsp;1.2 [Examples of sequence comparison](intro.md#examples-of-sequence-comparison)
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 [Comparing DNA sequences](intro.md#comparing-dna-sequences)
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 [Comparing RNA sequences](intro.md#comparing-rna-sequences)
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [Comparing protein sequences](intro.md#comparing-protein-sequences)
 2. [Comparing sequences](comparing.md) <br />
 &nbsp;&nbsp;2.1 [Comparing protein or nucleotide sequences?](comparing.md#comparing-protein-or-nucleotide-sequences)
 3. [Aligning two short DNA sequences](example.md) <br />
 &nbsp;&nbsp;3.1 [Gap](example.md#gaps) <br />
 &nbsp;&nbsp;3.2 [Scoring Matrices](example.md#scoring-matrices)
 4. [Aligning protein sequences](protein.md) <br />
-&nbsp;&nbsp;3.1 [Substition matrices: PAM and BLOSUM](protein.md#substition-matrices-pam-and-blosum) <br />
+&nbsp;&nbsp;4.1 [Substition matrices: PAM and BLOSUM](protein.md#substition-matrices-pam-and-blosum) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;4.1.1 [PAM matrices](protein.md#pam-matrices) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;4.1.2 [BLOSUM matrices](protein.md#blosum-matrices)
 5. [Which BLAST to use](which.md) <br />
