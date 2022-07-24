@@ -1,6 +1,29 @@
-# BLAST-OER
+# Protein and DNA Sequence alignment: finding and comparing sequences
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LearningResource",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE",
+    "@type": "CreativeWork"
+  },
+  "inLanguage": "en-gb",
+  "name": "Protein and DNA Sequence alignment: finding and comparing sequences",
+  "url": "[https://www.youtube.com/watch?v=a91OKWHKzXs](https://bigcat-um.github.io/BLAST-OER/)",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "copyrightYear": "2020-2022",
+  "description": "\"Protein and DNA Sequence alignment: finding and comparing sequences\" is an Open Educational Resource (OER)
+for first year biomedical sciences students into the world of sequence alignment and BLAST.",
+  "keywords": "protein, DNA, sequence, BLAST"
+}
+</script>
+Authors: Egon Willighagen, Lars Eijssen, Friederike Ehrhart, Dept. of Bioinformatics - BiGCAT
 
-Open Educational Resource for first year biomedical sciences students into the world of BLAST.
+_Protein and DNA Sequence alignment: finding and comparing sequences_ is an Open Educational Resource (OER)
+for first year biomedical sciences students into the world of sequence alignment and BLAST.
 
 ## Table of Contents
 
