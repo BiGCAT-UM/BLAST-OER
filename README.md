@@ -24,8 +24,7 @@ for first year biomedical sciences students into the world of sequence alignment
     { "@type": "Person", "name": "Egon Willighagen", "@id": "https://orcid.org/0000-0001-7542-0286" },
     { "@type": "Person", "name": "Lars Eijssen", "@id": "https://orcid.org/0000-0002-6473-2839" },
     { "@type": "Person", "name": "Friederike Ehrhart", "@id": "https://orcid.org/0000-0002-7770-620X" }
-  }
-]
+  ]
 }
 </script>
 Authors: Susan Coort, Chris Evelo, Egon Willighagen, Lars Eijssen, Friederike Ehrhart
