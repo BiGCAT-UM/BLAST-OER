@@ -17,10 +17,18 @@
   "copyrightYear": "2020-2022",
   "description": "\"Protein and DNA Sequence alignment: finding and comparing sequences\" is an Open Educational Resource (OER)
 for first year biomedical sciences students into the world of sequence alignment and BLAST.",
-  "keywords": "protein, DNA, sequence, BLAST"
+  "keywords": "protein, DNA, sequence, BLAST",
+  "author":  [
+    { "@type": "Person", "name": "Susan Coort", "@id": "https://orcid.org/0000-0003-1224-9690" },
+    { "@type": "Person", "name": "Chris Evelo", "@id": "https://orcid.org/0000-0002-5301-3142" },
+    { "@type": "Person", "name": "Egon Willighagen", "@id": "https://orcid.org/0000-0001-7542-0286" },
+    { "@type": "Person", "name": "Lars Eijssen", "@id": "https://orcid.org/0000-0002-6473-2839" },
+    { "@type": "Person", "name": "Friederike Ehrhart", "@id": "https://orcid.org/0000-0002-7770-620X" }
+  }
+]
 }
 </script>
-Authors: Egon Willighagen, Lars Eijssen, Friederike Ehrhart, Dept. of Bioinformatics - BiGCAT
+Authors: Susan Coort, Chris Evelo, Egon Willighagen, Lars Eijssen, Friederike Ehrhart
 
 _Protein and DNA Sequence alignment: finding and comparing sequences_ is an Open Educational Resource (OER)
 for first year biomedical sciences students into the world of sequence alignment and BLAST.
