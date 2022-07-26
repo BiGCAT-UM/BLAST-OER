@@ -9,7 +9,7 @@
   },
   "inLanguage": "en-gb",
   "name": "Protein and DNA Sequence alignment: finding and comparing sequences",
-  "url": "[https://www.youtube.com/watch?v=a91OKWHKzXs](https://bigcat-um.github.io/BLAST-OER/)",
+  "url": "https://bigcat-um.github.io/BLAST-OER/",
   "publisher": {
     "@type": "Organization",
     "name": "GitHub"
