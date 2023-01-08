@@ -97,6 +97,8 @@ a single sidechain can be major effects, such as in sickle-cell anemia. Here, a 
 
 ![Screenshot of β hemoglobin monomer with the glutamate highlighted](glutamate.png)
 
+The online book [A sequence alignment and analysis of SARS-CoV-2 spike glycoprotein](https://static-bcrf.biochem.wisc.edu/tutorials/COVID19/spikealignment/book/)
+(2020, Jean-Yves Sgro) provides a nice walk-through for aligning SARS-CoV-2 spike protein sequences.
 
 [toc](./README.md) | [next](comparing.md)
 
