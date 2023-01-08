@@ -14,7 +14,7 @@
     "@type": "Organization",
     "name": "GitHub"
   },
-  "copyrightYear": "2020-2022",
+  "copyrightYear": "2020-2023",
   "description": "\"Protein and DNA Sequence alignment: finding and comparing sequences\" is an Open Educational Resource (OER)
 for first year biomedical sciences students into the world of sequence alignment and BLAST.",
   "keywords": "protein, DNA, sequence, BLAST",
