@@ -61,7 +61,7 @@ for first year biomedical sciences students into the world of sequence alignment
 
 Video's by National Center for Biotechnology Information (NCBI):
 
-* [NCBI Minute: A Beginner's Guide to Genes and Sequences at NCBI](https://www.youtube.com/watch?v=QIZ8QH6JcC8) (time: 33:43)
+* [NCBI Minute: A Beginner's Guide to Genes and Sequences at NCBI](https://www.youtube.com/watch?v=QIZ8QH6JcC8) (time: 33:43 min)
 * [Webinar: A Practical Guide to NCBI BLAST](https://www.youtube.com/watch?v=KLBE0AuH-Sk) (54:44)
 * [BLAST Results: Expect Values, Part 1](https://www.youtube.com/watch?v=ZN3RrXAe0uM) (2:29)
 * [BLAST Results: Expect Values, Part 2](https://www.youtube.com/watch?v=dzRq-5BrGD4) (3:39)
