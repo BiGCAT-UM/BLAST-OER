@@ -81,4 +81,4 @@ Additional resources can be found in the [ELIXIR Training Portal TeSS](https://t
 
 ## License
 
-CC-BY 4.0 International [Authors](AUTHORS.txt)
+CC-BY 4.0 International [Authors](AUTHORS.txt), [source code](https://github.com/BiGCAT-UM/BLAST-OER).
