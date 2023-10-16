@@ -24,8 +24,8 @@ Also, some amino acids have very unique properties, making them essential in cer
 in a protein (e.g. cysteine, to form sulphur bridges).
 
 Homology is defined as similarity attributed to descent from a common ancestor. Sequences
-are either homologous or not (they cannot be somewhat homologous due to similar protein domain function). Paralogues are homologues
-between species (e.g. human and mouse haemoglobin alpha chain), orthologues are homologues
+are either homologous or not (they cannot be somewhat homologous due to similar protein domain function). Orthologues are homologues
+between species (e.g. human and mouse haemoglobin alpha chain), paralogues are homologues
 within a species (e.g. human haemoglobin alpha and beta chain).
 
 Using sequence alignment allows us to assess the degree of similarity and the possibility of homology.
